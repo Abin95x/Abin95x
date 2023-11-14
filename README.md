@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi there! 👋
+I'm Abin, a passionate Full Stack Web Developer
 
-<!--
-**Abin95x/Abin95x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on exciting web projects to enhance my skills and contribute to the tech community.
+🌱 I’m always learning and staying up-to-date with the latest trends in web development to deliver modern and efficient solutions.
+👯 I’m open to collaborating on interesting projects that involve innovative technologies and creative problem-solving.
+💬 Ask me about anything related to web development, especially MERN stack, and I'll do my best to help you out.
+📫 You can reach me through LinkedIn.
 
-Here are some ideas to get you started:
+Tech Stack:
+💻 Frontend: React.js, HTML, CSS, JavaScript
+🌐 Backend: Node.js, Express.js
+🗃️ Database: MongoDB ,postgres
+🛠️ Tools: Git, VSCode, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"Happy hacking!"
