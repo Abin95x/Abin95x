@@ -8,7 +8,7 @@
 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/abin-pv-44383a276/).
 
 <h3 align="left">Tech Stack:</h3>
-<br/>
+
 💻 Frontend: React.js, HTML, CSS, JavaScript
 <br/>
 🌐 Backend: Node.js, Express.js
