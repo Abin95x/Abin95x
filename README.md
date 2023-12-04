@@ -58,6 +58,10 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+</a>
+
 
   <!-- Backend -->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
