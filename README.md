@@ -1,12 +1,11 @@
-<h1 align="left">Hi there! 👋</h1>
-<h3 align="left">I'm Abin, a passionate Full Stack Web Developer</h3>
+# Hi there! 👋
+## I'm Abin, a Junior Software Engineer
 
- I’m currently working on exciting web projects to enhance my skills and contribute to the tech community.
- I’m always learning and staying up-to-date with the latest trends in web development to deliver modern and efficient solutions.
- I’m open to collaborating on interesting projects that involve innovative technologies and creative problem-solving.
- Ask me about anything related to web development, especially MERN stack, and I'll do my best to help you out.
- You can reach me through [LinkedIn](https://www.linkedin.com/in/abin-pv-44383a276/).
+Currently, I’m working as a Junior Software Engineer, focusing on enhancing my skills through exciting projects. I stay updated with the latest trends in web development to deliver modern and efficient solutions.
 
+I'm always open to collaborating on projects involving innovative technologies. Feel free to ask me anything about web development, especially the MERN stack.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/abin-pv-44383a276/).
 
 
 <img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
