@@ -1,7 +1,7 @@
 
 # Hi there! 🕊️ I'm Abin
 
-Currently, I’m working as a Junior Software Engineer, focusing on enhancing my skills through exciting projects. I stay updated with the latest trends in web development to deliver modern and efficient solutions.
+Currently, I’m working as a Junior Software Engineer, focusing on enhancing my skills through exciting projects.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/abin-pv-44383a276/).
 
