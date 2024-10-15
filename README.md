@@ -3,8 +3,6 @@
 
 Currently, I’m working as a Junior Software Engineer, focusing on enhancing my skills through exciting projects. I stay updated with the latest trends in web development to deliver modern and efficient solutions.
 
-I'm always open to collaborating on projects involving innovative technologies. Feel free to ask me anything about web development, especially the MERN stack.
-
 Connect with me on [LinkedIn](https://www.linkedin.com/in/abin-pv-44383a276/).
 
 
