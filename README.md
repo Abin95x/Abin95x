@@ -42,7 +42,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/abin-pv-44383a276/).
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/kali_linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 
