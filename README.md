@@ -6,7 +6,7 @@ Currently working as a Software Engineer, continuously improving my skills by de
 Connect with me on [LinkedIn](https://www.linkedin.com/in/abin-pv-44383a276/).
 
 <!-- <img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
-<!-- <img align="center" alt="coding" width="500" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">  -->
+ <img align="center" alt="coding" width="500" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"> 
 <!-- <img align="center" width="500" src="https://media.giphy.com/media/3xz2BLBOt13X9AgjEA/giphy.gif">  -->
 <!-- <img align="center" width="500" src="https://media.giphy.com/media/5DQdk5oZzNgGc/giphy.gif"> -->
 
